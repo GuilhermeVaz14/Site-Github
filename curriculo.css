@@ -1,0 +1,66 @@
+.Barra_Preta{
+    background-color: black;
+    width: 100vw;
+    height: 26px;
+}
+#Cinza{
+    display: flex;
+    flex-direction: column;
+    background-color: #d9d9d9;
+    width: 35vw;
+    height: 1460px;
+    
+}
+#box2{
+    padding-left: 110px;
+}
+#box5{
+    display: flex;
+}
+#box7{
+}
+#Branco{
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    padding-left: 70px;
+    width: 65vw;
+    height: 1400px;
+}
+#foto1{
+    width: 325px;
+    height: 325px;
+    padding-top: 100px;
+}
+#Caixa1{
+    display: flex;
+}
+
+.T1{
+  font-family: "Ruda", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 100px;
+}
+.T2{
+    font-family: "Ruda", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 25px;
+}
+.T3 {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700px;
+  font-style: normal;
+  font-size: 25px;
+}
+.T4{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700px;
+    font-style: normal;
+    font-size: 22.5px;
+}
