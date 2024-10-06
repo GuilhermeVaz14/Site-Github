@@ -62,5 +62,10 @@
     font-optical-sizing: auto;
     font-weight: 700px;
     font-style: normal;
-    font-size: 22.5px;
+    font-size: 1.35rem;
+}
+#T5{
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-size: auto;
 }
